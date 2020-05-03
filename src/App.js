@@ -15,7 +15,7 @@ function App() {
           href='https://reactjs.org'
           target='_blank'
           rel='noopener noreferrer'>
-          Hi Manmathan Mahalingam Learn React
+          Hi Mathan Learn React
         </a>
       </header>
     </div>
