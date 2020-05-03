@@ -15,7 +15,7 @@ function App() {
           href='https://reactjs.org'
           target='_blank'
           rel='noopener noreferrer'>
-          I've finally deployed to AWS
+          Hi Mathan Learn React
         </a>
       </header>
     </div>
